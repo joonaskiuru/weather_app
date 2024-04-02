@@ -7,7 +7,7 @@ Clone the git repo.
 Then in the repo install the dependencies: pip install -r requirements.txt
 
 Run the program with:
-python weather.py
+**python weather.py**
 
 # GUI
 Enter the city of your choice to the textbox in the right upper corner.
